@@ -1,0 +1,10 @@
+# Paste
+
+You'll need to add your host to a config file.
+
+Create a new file called "Paste.sublime-settings" in your User configuration directory, and
+add a new pair called "host", like so:
+
+{
+	"host": "http://example.com"
+}
